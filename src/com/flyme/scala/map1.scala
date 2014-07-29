@@ -1,4 +1,4 @@
-package com.fly.app
+package com.flyme.scala
 
 class map1 {
 

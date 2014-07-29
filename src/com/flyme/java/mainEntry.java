@@ -1,6 +1,6 @@
-package scalaDemo;
+package com.flyme.java;
 
-import com.fly.app.*;
+import com.flyme.scala.*;
 
 
 public class mainEntry {
